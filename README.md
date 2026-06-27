@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkisubhanarifin-art&label=Profile%20views&color=0e75b6&style=flat" alt="rifkisubhanarifin-art" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifkisubhanarifin-art" alt="rifkisubhanarifin-art" /></a> </p>
-
 - Aku sudah pernah kolaborasi dalam proyek [Sistem Belajar (SEBEL) Project](https://github.com/ryssofficial/web-kelompok)
 
 - 🌱 Saya sekarang belajar **React, React Native, AstroJS**
